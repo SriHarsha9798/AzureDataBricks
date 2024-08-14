@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Set length",
+				"name": "Set length123",
 				"type": "SetVariable",
 				"dependsOn": [],
 				"policy": {
