@@ -1,0 +1,9 @@
+{
+	"name": "adf-trnng",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7829afbf-778f-4375-bb50-30f1bd120313",
+		"tenantId": "1a0369b2-93f4-442d-99fb-5b55e9aba83e"
+	}
+}
